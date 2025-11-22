@@ -1,3 +1,3 @@
-i'm a physics student working at the intersection of quantum information, numerical linear algebra, and high-dimensional probability.
+i'm a physics student studying numerical linear algebra, theoretical neuroscience, and machine learning.
 
-right now, i'm working on numerical algorithms for tensor contractions and decompositions. 
+right now, i'm working on numerical algorithms for tensor contractions and dynamic mean field theory for recurrent neural networks.
